@@ -1,0 +1,54 @@
+h1{
+    color: brown;
+}
+
+/* 마지막 요소가 적용 */
+h1{
+    color:black;
+}
+
+.Day{
+    height: 7em;
+    display: table;
+    table-layout: fixed;
+    width: 100%;
+    vertical-align: top;
+}
+
+.coding{
+    color: blue;
+}
+
+.March{
+    text-align: left;
+}
+
+.Month{
+    text-align: center;
+    color:darkseagreen;
+    font-size: 30pt;
+}
+
+.DotW{
+    display: table;
+    table-layout: fixed;
+    width: 100%;
+    text-align: center;
+}
+
+.holiday{
+    color:red;
+}
+
+.gray{
+    color:darkgray;
+}
+
+/* #original{
+    color: gold;
+}
+
+#backend{
+    margin:0px;
+    padding:0px;
+} */
