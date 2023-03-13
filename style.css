@@ -1,3 +1,7 @@
+*{
+    box-sizing: border-box;
+}
+
 h1{
     color: brown;
 }
@@ -44,6 +48,9 @@ h1{
     color:forestgreen;
 }
 
+.gray{
+    color:darkgray;
+}
 /* #original{
     color: gold;
 }
